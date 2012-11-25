@@ -11,8 +11,12 @@ spec/reports
 test/tmp
 test/version_tmp
 tmp
+.c9revisions/
 
 # YARD artifacts
 .yardoc
 _yardoc
 doc/
+
+# Ignore binstubs
+bin/
