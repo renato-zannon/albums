@@ -1,2 +1,1 @@
-albums
-======
+A webapp to help keeping track of the albums of your favorite artists.
